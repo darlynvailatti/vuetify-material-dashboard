@@ -12,7 +12,6 @@
         md8
       >
         <material-card
-          color="green"
           title="Edit Profile"
           text="Complete your profile"
         >
@@ -103,7 +102,6 @@
                 >
                   <v-btn
                     class="mx-0 font-weight-light"
-                    color="success"
                   >
                     Update Profile
                   </v-btn>
@@ -132,7 +130,6 @@
             <h4 class="card-title font-weight-light">Alec Thompson</h4>
             <p class="card-description font-weight-light">Don't be scared of the truth because we need to restart the human foundation in truth And I love you like Kanye loves Kanye I love Rick Owens’ bed design but the back is...</p>
             <v-btn
-              color="success"
               round
               class="font-weight-light"
             >Follow</v-btn>

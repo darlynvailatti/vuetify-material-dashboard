@@ -16,12 +16,13 @@
       dark
       fab
       fixed
-      style="top: 96px;"
+      style="top: 90%;"
       top
     >
       <v-icon>mdi-settings</v-icon>
     </v-btn>
     <v-card>
+      
       <v-container grid-list-xl>
         <v-layout wrap>
           <v-flex xs12>
@@ -39,6 +40,7 @@
             </v-layout>
             <v-divider class="mt-3"/>
           </v-flex>
+          <!--
           <v-flex
             xs12
           >
@@ -107,7 +109,8 @@
               </div>
             </div>
           </v-flex>
-        </v-layout>
+          -->
+        </v-layout> 
       </v-container>
     </v-card>
   </v-menu>
